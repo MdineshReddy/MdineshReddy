@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M. Dinesh Reddy
 - 👀 I’m interested in Full Stack Development and Mobile Application Development
 - 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me dineshmaareddy@gmail.com
+- 📫 How to reach me dineshmaareddys@gmail.com
 
 <!---
 MdineshReddy/MdineshReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
