@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M. Dinesh Reddy
 - 👀 I’m interested in Full Stack Development and Mobile Application Development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently working as a Full Stack Developer
 - 📫 How to reach me dineshmaareddy@gmail.com
 
 <!---
